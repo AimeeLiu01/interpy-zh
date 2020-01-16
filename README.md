@@ -39,19 +39,3 @@ IntermediatePython这本书具有如下几个优点：
 ## 原书作者
 感谢英文原著作者 @yasoob《[Intermediate Python](https://github.com/yasoob/intermediatePython)》，有了他才有了这里的一切
 
-## 译者
-总顾问+审校: 刘宇 @liuyu  
-主译: PyCon老高 @spawnris  
-主译: 大牙matt @suqi  
-参译: 明源 @muxueqz  
-
-## 欢迎建议指正或直接贡献代码
-https://github.com/eastlakeside/interpy-zh/issues
-
-### 微信交流群
-> ![微信群](http://weixin.qq.com/cgi-bin/qrcode?type=user&arg=jhv6N4MIK9IDG4EsaWmnxmNexVuB23%2FhP60VbvUsRE8%3D)
-
-### 微信打赏支持：
-> ![wechat_donate](__img/donate.png)
-
-
