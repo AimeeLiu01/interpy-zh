@@ -15,6 +15,7 @@ def profile():
 profile_data = profile()
 print(profile_data[0])
 print(profile_data[1])
+print(type(profile_data))
 
 def profile1():
     name = "Danny"
